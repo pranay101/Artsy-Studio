@@ -1,2 +1,2 @@
 # Artsy-Studio
-Portfolio website 
+Where Imagination Lives
